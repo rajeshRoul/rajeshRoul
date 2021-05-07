@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeshRoul
 - 👀 I’m interested in Full stack Web development and Android Development
-- 🌱 I’m currently learning Backend part of Full Stack Web Development
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me -- (email- roul.rajesh28@gmail.com) (linkedIn- https://www.linkedin.com/in/rajesh-roul-developer)
 
